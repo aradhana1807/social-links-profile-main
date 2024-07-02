@@ -48,7 +48,7 @@ a {
   background-color: var(--clr-dark-grey);
   width: 32rem;
   border-radius: 0.8rem;
-  padding: 1.8rem;
+  padding: 2rem;
   text-align: center;
 }
 
@@ -65,7 +65,7 @@ a {
 }
 
 .profile .profile-title {
-  margin-top: 3rem;
+  margin-top: 2rem;
 }
 
 .profile .profile-title h1 {
@@ -77,9 +77,9 @@ a {
 .profile .profile-title h2 {
   color: var(--clr-green);
   font-size: 1.4rem;
-  font-weight: 400;
-  margin-top: 1rem;
-  margin-bottom: 3rem;
+  font-weight: 500;
+  margin-top: 0.75rem;
+  margin-bottom: 2.5rem;
 }
 
 .profile .profile-header p {
@@ -91,7 +91,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 3rem;
+  margin-top: 2.5rem;
 }
 
 .profile .social-links li {
@@ -101,10 +101,10 @@ a {
 .profile .social-links li a {
   background-color: var(--clr-grey);
   color: var(--clr-white);
-  padding: 1.6rem 0;
+  padding: 1.5rem 0;
   border-radius: 0.8rem;
-  margin-bottom: 2rem;
-  font-weight: 500;
+  margin-bottom: 1.5rem;
+  font-weight: 600;
   transition: all 0.3s ease-in-out;
 }
 
