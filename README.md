@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -12,7 +12,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-
 
 ## Overview
 
@@ -26,11 +25,10 @@ Users should be able to:
 
 ![](./screenshot.png)
 
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/aradhana1807/social-links-profile-main)
+- Live Site URL: [Live on Netlify](https://social-media-links-fm.netlify.app/)
 
 ## My process
 
@@ -40,4 +38,3 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
